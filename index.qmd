@@ -1,0 +1,9 @@
+# #0927 {.unnumbered}
+
+안녕하세요 서정현입니다.
+
+오늘은 해결지향소통 수업을 통해 "Quarto Book"과 "Quarto Website"를 만드는 법을 배웠어요.
+
+1\\. R studio \\\\\\\> File \\\\\\\> New Project \\\\\\\> New Directory \\\\\\\> Quarto Book
+
+그럼 끝!
